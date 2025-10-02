@@ -7,7 +7,7 @@ I'm a **Computer Science major at UMD – College Park** (Class of 2027) with an
 
 ---
 
-## Featured Project – FamFusion
+## Featured Project (In-Progress) – FamFusion
 
 [**FamFusion**](https://github.com/FamFusion) is a collaborative recipe-sharing web application built with friends.  
 It allows families and groups to share, tag, and search recipes together — hosted on AWS with a **Node/Express backend** and **React/Vite frontend**.  
