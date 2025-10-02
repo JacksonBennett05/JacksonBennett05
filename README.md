@@ -23,8 +23,7 @@ It allows families and groups to share, tag, and search recipes together — hos
 
 ## Other Projects
 - **UFC Fight Predictor** – Full-stack app (React + Flask + Python scraper) that simulates fights and tracks prediction accuracy.  
-- **TerpStore** – E-commerce site (HTML, CSS, PHP, SSI) built for CMSC335 coursework.  
-- **PhotoViewer** – Event-driven JS app using fetch & JSON (CMSC335 Project #3).  
+- **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.  
 
 ---
 
