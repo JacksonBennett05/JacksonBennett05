@@ -1,13 +1,13 @@
 # Jackson Bennett
 
-I'm a **Computer Science major at UMD – College Park** (Class of 2027) with an interest in **software engineering, web development, cybersecurity and artificial intelegence**.  
+I'm a **Computer Science major at UMD - College Park** (Class of 2027) with an interest in **software engineering, web development, cybersecurity and artificial intelegence**.  
 
 **Summer 2025 Internship**: Johns Hopkins Applied Physics Lab (Agile Information Solutions & Innovation group)  
 **Activities**: UMD Cybersecurity Club, Campus Coder Crew, Terps Raising Pups (currently raising Joey 🐾)
 
 ---
 
-## Featured Project (In-Progress) – FamFusion
+## Featured Project (In-Progress) - FamFusion
 
 [**FamFusion**](https://github.com/FamFusion) is a collaborative recipe-sharing web application built with friends.  
 It allows families and groups to share, tag, and search recipes together — hosted on AWS with a **Node/Express backend** and **React/Vite frontend**.  
@@ -22,7 +22,7 @@ It allows families and groups to share, tag, and search recipes together — hos
 ---
 
 ## Other Projects
-- **UFC Fight Predictor** – Full-stack app (React + Flask + Python scraper) that simulates fights and tracks prediction accuracy.  
+- **UFC Fight Predictor** - Full-stack app (React + Flask + Python scraper) that simulates fights and tracks prediction accuracy.  
 - **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.  
 
 ---
