@@ -22,7 +22,7 @@ It allows families and groups to share, tag, and search recipes together - hoste
 ---
 
 ## Other Projects
-- **UFC Fight Predictor** - Full-stack app (React + Flask + Python scraper) that simulates fights and tracks prediction accuracy.  
+- **UFC Fight Predictor** - Full-stack app (React + Flask + Python scraper) that simulates fights.  
 - **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.  
 
 ---
