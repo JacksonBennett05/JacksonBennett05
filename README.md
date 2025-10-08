@@ -1,4 +1,4 @@
-# Jackson Bennett
+# Jackson Bennett 
 
 I'm a **Computer Science major at UMD - College Park** (Class of 2027) with an interest in **software engineering, web development, cybersecurity and artificial intelegence**.  
 
