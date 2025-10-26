@@ -4,9 +4,8 @@ I'm a **Computer Science major at UMD - College Park** (Class of 2027) with an i
 
 **Summer 2025 Internship**: Johns Hopkins Applied Physics Lab (Agile Information Solutions & Innovation group)  
 **Activities**: UMD Cybersecurity Club, Campus Coder Crew, Terps Raising Pups (currently raising Joey 🐾)
-
+<!--
 ---
-
 ## Featured Project (In-Progress) - FamFusion
 
 [**FamFusion**](https://github.com/FamFusion) is a collaborative recipe-sharing web application built with friends.  
@@ -20,10 +19,11 @@ It allows families and groups to share, tag, and search recipes together - hoste
 - Hosting: AWS  
 
 ---
-
-## Other Projects
+-->
+## Projects
 - **UFC Fight Predictor** - Full-stack app (React + Flask + Python scraper) that simulates fights.  
-- **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.  
+- **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.
+- **Lego Price Tracker (In Progress)** - Scrapes prices of lego sets off different websites to find the best deal on the set.  
 
 ---
 
