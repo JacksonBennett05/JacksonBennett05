@@ -1,6 +1,6 @@
 # Jackson Bennett 
 
-I'm a **Computer Science major at UMD - College Park** (Class of 2027) with an interest in **software engineering, web development, cybersecurity and artificial intelegence**.  
+I'm a **Computer Science major at UMD - College Park** (Class of 2027) with interests in **software engineering, web development, cybersecurity and artificial intelegence**.  
 
 **Intern at Johns Hopkins Applied Physics Lab** - Agile Information Solutions & Innovation (Summer 2025, Winter 2025)  
 **Activities**: UMD Cybersecurity Club, Campus Coder Crew, Terps Raising Pups (currently raising Joey 🐾)
