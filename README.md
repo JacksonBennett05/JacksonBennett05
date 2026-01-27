@@ -30,4 +30,5 @@ It allows families and groups to share, tag, and search recipes together - hoste
 
 ## Let’s Connect
 - [LinkedIn Account](https://www.linkedin.com/in/jackson-bennett05/)  
-- [GitHub Account](https://github.com/JacksonBennett05)  
+- [GitHub Account](https://github.com/JacksonBennett05)
+- [Personal Website](https://personal-site-olive-psi.vercel.app/)
