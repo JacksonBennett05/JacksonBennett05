@@ -3,7 +3,7 @@
 I'm a **Computer Science major at UMD - College Park** (Class of 2027) with interests in **software engineering, web development, cybersecurity and artificial intelegence**. 
 
 **Intern at Johns Hopkins Applied Physics Lab** - Agile Information Solutions & Innovation (Summer 2025, Winter 2025)  
-**Activities**: UMD Cybersecurity Club, Campus Coder Crew, Terps Raising Pups (currently raising Joey 🐾)
+**Activities**: UMD Cybersecurity Club, Campus Coder Crew, Terps Raising Pups (currently raising Joey for the Guide Dog Foundation)
 <!--
 ---
 ## Featured Project (In-Progress) - FamFusion
