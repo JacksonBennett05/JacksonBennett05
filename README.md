@@ -20,7 +20,7 @@ It allows families and groups to share, tag, and search recipes together - hoste
 
 ---
 -->
-## Projects
+## Highlighted Projects
 - **UFC Fight Predictor** - Full-stack app (React + Flask + Python scraper) that simulates fights.
 - **Lego Price Tracker** - Scrapes prices of lego sets off different websites to find the best deal on the set.  
 - **Casino Project** - CLI Blackjack game written in Java using OOP principles and game logic.
